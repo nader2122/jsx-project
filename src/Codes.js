@@ -8,7 +8,7 @@ import vid1 from './vid1.mp4'
 const Codes = () => {
     return (
       <div>
-          <div style={{border:'solid 1px black',maxWidth:'100vw'}}>
+                  <div className='cod'>
 
 <h1 className ="title red"> List of Images and Video </h1>
 
